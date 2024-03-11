@@ -1,0 +1,50 @@
+In graph 1: 
+Minimum distance: 344.71
+Tour: 5 2 8 12 4 1 10 3 7 9 6 11 0 
+Elapsed time: 2328.30ms
+
+In graph 2: 
+Minimum distance: 357.99
+Tour: 12 4 1 6 9 7 2 11 3 5 8 10 0 
+Elapsed time: 3728.35ms
+
+In graph 3: 
+Minimum distance: 344.69
+Tour: 11 8 1 6 4 5 3 10 12 9 7 2 0 
+Elapsed time: 6749.11ms
+
+In graph 4: 
+Minimum distance: 341.64
+Tour: 10 3 7 4 8 5 12 6 9 11 2 1 0 
+Elapsed time: 6433.77ms
+
+In graph 5: 
+Minimum distance: 331.76
+Tour: 7 9 8 12 5 3 10 11 2 4 1 6 0 
+Elapsed time: 1311.52ms
+
+In graph 6: 
+Minimum distance: 263.28
+Tour: 11 1 7 8 12 2 4 3 9 5 10 6 0 
+Elapsed time: 1952.17ms
+
+In graph 7: 
+Minimum distance: 361.07
+Tour: 10 12 2 5 6 1 11 4 9 3 8 7 0 
+Elapsed time: 10597.50ms
+
+In graph 8: 
+Minimum distance: 296.01
+Tour: 7 10 6 12 9 11 5 4 1 3 8 2 0 
+Elapsed time: 1880.01ms
+
+In graph 9: 
+Minimum distance: 331.66
+Tour: 10 9 6 5 4 12 1 7 11 8 3 2 0 
+Elapsed time: 934.38ms
+
+In graph 10: 
+Minimum distance: 325.99
+Tour: 12 6 1 2 11 10 7 3 8 4 9 5 0 
+Elapsed time: 2483.01ms
+
